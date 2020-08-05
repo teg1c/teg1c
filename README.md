@@ -2,7 +2,7 @@
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=teg1c&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p>
     <img src="http://views.whatilearened.today/views/github/teg1c/views.svg"/>
-    <a href="https://teg1c.github.io/"><img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https%3A%2F%2izww.cn%2F"/></a>
+    <a href="https://teg1c.github.io/"><img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https://teg1c.github.io"/></a>
     <a href="https://github.com/teg1c/"><img src="https://img.shields.io/github/followers/teg1c?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/teg1c?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
