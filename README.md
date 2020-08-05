@@ -9,7 +9,7 @@
     <a href="mailto:contact@teg1c@foxmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
     <img src="https://img.shields.io/discord/595235640044552223?label=Discord%20Tech%20%3A"/>
     <img src="https://img.shields.io/badge/Front End-Vue.js-42b883"/>
-    <img src="https://img.shields.io/badge/Back End-Laravel-f55247"/>
+    <img src="https://img.shields.io/badge/Back End-PHP-f55247"/>
     <img src="https://img.shields.io/badge/Os-MacOs-a80030"/>
   </p>
 </p>
